@@ -7,7 +7,7 @@ function Footer() {
            <Container>
                <Row>
                    <Col className='text-center py-3'>
-Copyright Lidiaa :) 
+Copyright EnaImpex SRL
                    </Col>
                </Row>
            </Container>
